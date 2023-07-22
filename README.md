@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dbr65x
-- 👀 I’m interested in a summer internship for 2023
-- 🌱 I’m currently learning Moble App Development, Computer Networks, Big Data Programming, and Software Enginnering-CTW.
+- 👀 I’m interested in an internship for 2025
+- 🌱 I’m currently learning new languages and frameworks.
 - 💞️ I’m looking to collaborate on new interesting projects.
 - 📫 How to reach me ...
 
