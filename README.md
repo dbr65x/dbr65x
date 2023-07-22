@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dbr65x
-- 👀 I’m interested in an internship for 2025
+- 👀 I’m interested in an internship for 2024
 - 🌱 I’m currently learning new languages and frameworks.
 - 💞️ I’m looking to collaborate on new interesting projects.
 - 📫 How to reach me ...
